@@ -14,7 +14,25 @@ from echo_exporter where npdes_flag = 'Y'
 
 The results of this query are saved into ECHO_EXPORTER_NPDES.csv.
 
+Repo websites
+
+[echo-cwa-compliance-violations](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliance-violations.ipynb)
+
+[CWA_Inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliances-inspections.ipynb)
+
+[CWA_Enforcements.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-enforcements.ipynb)
+
 ---
+
+## Notebook validation
+
+### Link to Notebooks
+
+[echo-cwa-compliance-violations](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliance-violations.ipynb)
+
+[CWA_Inspections](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-compliances-inspections.ipynb)
+
+[CWA_Enforcements.ipynb](https://colab.research.google.com/github/edgi-govdata-archiving/ECHO-Clean-Water-Act/blob/master/echo-cwa-enforcements.ipynb)
 
 ## License & Copyright
 
